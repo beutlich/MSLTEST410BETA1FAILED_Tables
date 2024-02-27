@@ -1,0 +1,816 @@
+﻿2024-02-27Z22:18:24 [       Debug ] Starting new result check @27.02.2024 22:18:24
+2024-02-27Z22:18:24 [       Debug ] Parsing command line options: 
+ * --mode csvTreeCompare --override --tolerance 2e-3 --delimiter , --verbosity 2 C:\compare\failed\ModelicaTest\Tables ..\MAP-LIB_ReferenceResults\ModelicaTest\Tables --logfile log.txt --comparisonflag --reportdir C:\temp\MSL410Tables
+2024-02-27Z22:18:24 [       Debug ] Successfully parsed the following options:
+2024-02-27Z22:18:24 [       Debug ] Operation mode is CsvTreeCompare
+2024-02-27Z22:18:24 [       Debug ] Tolerance is 2e-3
+2024-02-27Z22:18:24 [       Debug ] Delimiter to be used to parse CSV has been explicitly set and is ","
+2024-02-27Z22:18:24 [       Debug ] Logfile is log.txt
+2024-02-27Z22:18:24 [       Debug ] Searching for file Test10.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:24 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:24 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:24 [       Debug ] Exiting with exit code "0".
+2024-02-27Z22:18:24 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test10\Test10.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test10\Test10.csv"
+2024-02-27Z22:18:24 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:24 [     Warning ] t_new.y is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:24 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:24 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [ Information ] clock1.y is valid
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [ Information ] clock2.y is valid
+2024-02-27Z22:18:25 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test10.Test10_report.html
+2024-02-27Z22:18:25 [       Debug ] Searching for file Test11.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:25 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:25 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:25 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test11\Test11.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test11\Test11.csv"
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [     Warning ] t_new.y is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [ Information ] clock1.y is valid
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [ Information ] clock2.y is valid
+2024-02-27Z22:18:25 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test11.Test11_report.html
+2024-02-27Z22:18:25 [       Debug ] Searching for file Test12.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:25 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:25 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:25 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test12\Test12.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test12\Test12.csv"
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [     Warning ] t_new.y is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [ Information ] clock1.y is valid
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [ Information ] clock2.y is valid
+2024-02-27Z22:18:25 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test12.Test12_report.html
+2024-02-27Z22:18:25 [       Debug ] Searching for file Test14.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:25 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:25 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:25 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:25 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test14\Test14.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test14\Test14.csv"
+2024-02-27Z22:18:25 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:25 [     Warning ] t_new.y is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [ Information ] clock1.y is valid
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [ Information ] clock2.y is valid
+2024-02-27Z22:18:26 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test14.Test14_report.html
+2024-02-27Z22:18:26 [       Debug ] Searching for file Test18_usertab.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:26 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:26 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "ramp.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "ramp1.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "ramp.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "ramp1.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:26 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test18_usertab\Test18_usertab.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test18_usertab\Test18_usertab.csv"
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [     Warning ] t_new.y is invalid! 2239 errors have been found during validation.
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [     Warning ] d_t_new.y is invalid! 2470 errors have been found during validation.
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [ Information ] ramp.y is valid
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [ Information ] ramp1.y is valid
+2024-02-27Z22:18:26 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test18_usertab.Test18_usertab_report.html
+2024-02-27Z22:18:26 [       Debug ] Searching for file Test2.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:26 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:26 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:26 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:26 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test2\Test2.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test2\Test2.csv"
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [     Warning ] t_new.y is invalid! 2837 errors have been found during validation.
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [     Warning ] d_t_new.y is invalid! 2864 errors have been found during validation.
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [ Information ] clock.y is valid
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [ Information ] const.y is valid
+2024-02-27Z22:18:26 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:26 [     Warning ] d2_t_new.y is invalid! 2814 errors have been found during validation.
+2024-02-27Z22:18:27 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test2.Test2_report.html
+2024-02-27Z22:18:27 [       Debug ] Searching for file Test20.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:27 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:27 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D1D.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D1DT.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable1D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2DT.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der1.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der2.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der3.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der4.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der5.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D1D.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D1DT.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable1D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2DT.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der1.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der2.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der3.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der4.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der5.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:27 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test20\Test20.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test20\Test20.csv"
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] clock1.y is valid
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] combiTable2D1D.y is valid
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [     Warning ] combiTable2D1DT.y is invalid! 769 errors have been found during validation.
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] combiTable1D.y[1] is valid
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] combiTable2D.y is valid
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [     Warning ] combiTable2DT.y is invalid! 769 errors have been found during validation.
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] der1.y is valid
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [     Warning ] der2.y is invalid! 823 errors have been found during validation.
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] der3.y is valid
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] der4.y is valid
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [     Warning ] der5.y is invalid! 823 errors have been found during validation.
+2024-02-27Z22:18:27 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test20.Test20_report.html
+2024-02-27Z22:18:27 [       Debug ] Searching for file Test22.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:27 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:27 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "combiTable2D_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:27 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:27 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test22\Test22.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test22\Test22.csv"
+2024-02-27Z22:18:27 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:27 [ Information ] sine_R.y is valid
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [ Information ] sine_L.y is valid
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [ Information ] combiTable2D_1R.y is valid
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [     Warning ] combiTable2D_2R.y is invalid! 2502 errors have been found during validation.
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [     Warning ] combiTable2D_1L.y is invalid! 4384 errors have been found during validation.
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [ Information ] combiTable2D_2L.y is valid
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [ Information ] der_1R.y is valid
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [     Warning ] der_2R.y is invalid! 2452 errors have been found during validation.
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [     Warning ] der_1L.y is invalid! 4400 errors have been found during validation.
+2024-02-27Z22:18:28 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:28 [ Information ] der_2L.y is valid
+2024-02-27Z22:18:28 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test22.Test22_report.html
+2024-02-27Z22:18:28 [       Debug ] Searching for file Test23.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:28 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:28 [       Debug ] Column "cosine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "cosine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "cosine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "cosine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "combiTable2D_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:28 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:29 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:29 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test23\Test23.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test23\Test23.csv"
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [ Information ] cosine_R.y is valid
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [ Information ] sine_R.y is valid
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [ Information ] cosine_L.y is valid
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [ Information ] sine_L.y is valid
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [     Warning ] combiTable2D_1R.y is invalid! 256 errors have been found during validation.
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [     Warning ] combiTable2D_2R.y is invalid! 878 errors have been found during validation.
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [     Warning ] combiTable2D_1L.y is invalid! 362 errors have been found during validation.
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [ Information ] combiTable2D_2L.y is valid
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [     Warning ] der_1R.y is invalid! 182 errors have been found during validation.
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [     Warning ] der_2R.y is invalid! 234 errors have been found during validation.
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [     Warning ] der_1L.y is invalid! 316 errors have been found during validation.
+2024-02-27Z22:18:29 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:29 [ Information ] der_2L.y is valid
+2024-02-27Z22:18:30 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test23.Test23_report.html
+2024-02-27Z22:18:30 [       Debug ] Searching for file Test3.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:30 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:30 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:30 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test3\Test3.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test3\Test3.csv"
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [     Warning ] t_new.y is invalid! 2741 errors have been found during validation.
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [     Warning ] d_t_new.y is invalid! 2836 errors have been found during validation.
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [ Information ] clock1.y is valid
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [ Information ] clock2.y is valid
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [     Warning ] d2_t_new.y is invalid! 2822 errors have been found during validation.
+2024-02-27Z22:18:30 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test3.Test3_report.html
+2024-02-27Z22:18:30 [       Debug ] Searching for file Test31.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:30 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:30 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:30 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test31\Test31.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test31\Test31.csv"
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [     Warning ] t_new.y is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [ Information ] clock1.y is valid
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [ Information ] clock2.y is valid
+2024-02-27Z22:18:30 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test31.Test31_report.html
+2024-02-27Z22:18:30 [       Debug ] Searching for file Test5.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:30 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:30 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:30 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:30 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test5\Test5.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test5\Test5.csv"
+2024-02-27Z22:18:30 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:30 [     Warning ] t_new.y is invalid! 2910 errors have been found during validation.
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [     Warning ] d_t_new.y is invalid! 2827 errors have been found during validation.
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] const.y is valid
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] clock.y is valid
+2024-02-27Z22:18:31 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test5.Test5_report.html
+2024-02-27Z22:18:31 [       Debug ] Searching for file Test6.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:31 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:31 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:31 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test6\Test6.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test6\Test6.csv"
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [     Warning ] t_new.y is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] clock1.y is valid
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] clock2.y is valid
+2024-02-27Z22:18:31 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test6.Test6_report.html
+2024-02-27Z22:18:31 [       Debug ] Searching for file Test8.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:31 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:31 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:31 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test8\Test8.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test8\Test8.csv"
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [     Warning ] t_new.y is invalid! 2450 errors have been found during validation.
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] const.y is valid
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] clock.y is valid
+2024-02-27Z22:18:31 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test8.Test8_report.html
+2024-02-27Z22:18:31 [       Debug ] Searching for file Test9.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:31 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:31 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:31 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:31 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Ds\Test9\Test9.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Ds\Test9\Test9.csv"
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [     Warning ] t_new.y is invalid! 2480 errors have been found during validation.
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] clock1.y is valid
+2024-02-27Z22:18:31 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:31 [ Information ] clock2.y is valid
+2024-02-27Z22:18:32 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Ds.Test9.Test9_report.html
+2024-02-27Z22:18:32 [       Debug ] Searching for file Test10.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:32 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:32 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:32 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test10\Test10.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test10\Test10.csv"
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [     Warning ] t_new.y[1] is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [ Information ] clock1.y is valid
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [ Information ] clock2.y is valid
+2024-02-27Z22:18:32 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test10.Test10_report.html
+2024-02-27Z22:18:32 [       Debug ] Searching for file Test11.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:32 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:32 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:32 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test11\Test11.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test11\Test11.csv"
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [     Warning ] t_new.y[1] is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [ Information ] clock1.y is valid
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [ Information ] clock2.y is valid
+2024-02-27Z22:18:32 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test11.Test11_report.html
+2024-02-27Z22:18:32 [       Debug ] Searching for file Test12.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:32 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:32 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:32 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:32 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test12\Test12.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test12\Test12.csv"
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [     Warning ] t_new.y[1] is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:32 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:32 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [ Information ] clock1.y is valid
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [ Information ] clock2.y is valid
+2024-02-27Z22:18:33 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test12.Test12_report.html
+2024-02-27Z22:18:33 [       Debug ] Searching for file Test14.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:33 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:33 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:33 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test14\Test14.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test14\Test14.csv"
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [     Warning ] t_new.y[1] is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [ Information ] clock1.y is valid
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [ Information ] clock2.y is valid
+2024-02-27Z22:18:33 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test14.Test14_report.html
+2024-02-27Z22:18:33 [       Debug ] Searching for file Test18_usertab.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:33 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:33 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "ramp.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "ramp1.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "ramp.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "ramp1.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:33 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test18_usertab\Test18_usertab.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test18_usertab\Test18_usertab.csv"
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [     Warning ] t_new.y[1] is invalid! 2239 errors have been found during validation.
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [     Warning ] d_t_new.y is invalid! 2470 errors have been found during validation.
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [ Information ] ramp.y is valid
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [ Information ] ramp1.y is valid
+2024-02-27Z22:18:33 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test18_usertab.Test18_usertab_report.html
+2024-02-27Z22:18:33 [       Debug ] Searching for file Test2.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:33 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:33 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:33 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:33 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test2\Test2.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test2\Test2.csv"
+2024-02-27Z22:18:33 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:33 [     Warning ] t_new.y[1] is invalid! 2837 errors have been found during validation.
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [     Warning ] d_t_new.y is invalid! 2864 errors have been found during validation.
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [ Information ] clock.y is valid
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [ Information ] const.y is valid
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [     Warning ] d2_t_new.y is invalid! 2814 errors have been found during validation.
+2024-02-27Z22:18:34 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test2.Test2_report.html
+2024-02-27Z22:18:34 [       Debug ] Searching for file Test20.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:34 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2D1D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2D1DT.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable1D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2DT.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der1.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der2.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der3.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der4.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der5.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2D1D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2D1DT.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable1D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2D.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "combiTable2DT.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der1.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der2.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der3.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der4.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Column "der5.y" seems to be text, this is good.
+2024-02-27Z22:18:34 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:34 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test20\Test20.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test20\Test20.csv"
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [ Information ] combiTable2D1D.y[1] is valid
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [     Warning ] combiTable2D1DT.y[1] is invalid! 769 errors have been found during validation.
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [ Information ] clock1.y is valid
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [ Information ] combiTable1D.y[1] is valid
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [ Information ] combiTable2D.y[1] is valid
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [     Warning ] combiTable2DT.y[1] is invalid! 769 errors have been found during validation.
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [ Information ] der1.y is valid
+2024-02-27Z22:18:34 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:34 [     Warning ] der2.y is invalid! 823 errors have been found during validation.
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [ Information ] der3.y is valid
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [ Information ] der4.y is valid
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [     Warning ] der5.y is invalid! 823 errors have been found during validation.
+2024-02-27Z22:18:35 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test20.Test20_report.html
+2024-02-27Z22:18:35 [       Debug ] Searching for file Test22.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:35 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_1R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_2R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "const_R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_1L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_2L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "const_L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_1R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_2R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "const_R.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_1L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "combiTable2D_2L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Column "const_L.y" seems to be text, this is good.
+2024-02-27Z22:18:35 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:35 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test22\Test22.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test22\Test22.csv"
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [ Information ] combiTable2D_1R.y[1] is valid
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [ Information ] der_1R.y is valid
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [     Warning ] combiTable2D_2R.y[1] is invalid! 2502 errors have been found during validation.
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [     Warning ] der_2R.y is invalid! 2452 errors have been found during validation.
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [ Information ] sine_R.y is valid
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [ Information ] const_R.y is valid
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [     Warning ] combiTable2D_1L.y[1] is invalid! 4384 errors have been found during validation.
+2024-02-27Z22:18:35 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:35 [     Warning ] der_1L.y is invalid! 4400 errors have been found during validation.
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [ Information ] combiTable2D_2L.y[1] is valid
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [ Information ] der_2L.y is valid
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [ Information ] sine_L.y is valid
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [ Information ] const_L.y is valid
+2024-02-27Z22:18:36 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test22.Test22_report.html
+2024-02-27Z22:18:36 [       Debug ] Searching for file Test23.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:36 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_1R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_2R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "cosine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_1L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_2L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "cosine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_1R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_1R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_2R.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_2R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "cosine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "sine_R.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_1L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_1L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "combiTable2D_2L.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "der_2L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "cosine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Column "sine_L.y" seems to be text, this is good.
+2024-02-27Z22:18:36 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:36 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test23\Test23.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test23\Test23.csv"
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [     Warning ] combiTable2D_1R.y[1] is invalid! 256 errors have been found during validation.
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [     Warning ] der_1R.y is invalid! 182 errors have been found during validation.
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [     Warning ] combiTable2D_2R.y[1] is invalid! 878 errors have been found during validation.
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [     Warning ] der_2R.y is invalid! 234 errors have been found during validation.
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [ Information ] cosine_R.y is valid
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [ Information ] sine_R.y is valid
+2024-02-27Z22:18:36 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:36 [     Warning ] combiTable2D_1L.y[1] is invalid! 362 errors have been found during validation.
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [     Warning ] der_1L.y is invalid! 316 errors have been found during validation.
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [ Information ] combiTable2D_2L.y[1] is valid
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [ Information ] der_2L.y is valid
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [ Information ] cosine_L.y is valid
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [ Information ] sine_L.y is valid
+2024-02-27Z22:18:37 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test23.Test23_report.html
+2024-02-27Z22:18:37 [       Debug ] Searching for file Test3.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:37 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:37 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "d2_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:37 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test3\Test3.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test3\Test3.csv"
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [     Warning ] t_new.y[1] is invalid! 2741 errors have been found during validation.
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [     Warning ] d_t_new.y is invalid! 2836 errors have been found during validation.
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [ Information ] clock1.y is valid
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [ Information ] clock2.y is valid
+2024-02-27Z22:18:37 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:37 [     Warning ] d2_t_new.y is invalid! 2822 errors have been found during validation.
+2024-02-27Z22:18:37 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test3.Test3_report.html
+2024-02-27Z22:18:37 [       Debug ] Searching for file Test31.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:37 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:37 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:37 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:38 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test31\Test31.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test31\Test31.csv"
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [     Warning ] t_new.y[1] is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [ Information ] clock1.y is valid
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [ Information ] clock2.y is valid
+2024-02-27Z22:18:38 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test31.Test31_report.html
+2024-02-27Z22:18:38 [       Debug ] Searching for file Test5.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:38 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:38 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:38 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test5\Test5.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test5\Test5.csv"
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [     Warning ] t_new.y[1] is invalid! 2910 errors have been found during validation.
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [     Warning ] d_t_new.y is invalid! 2827 errors have been found during validation.
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [ Information ] const.y is valid
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [ Information ] clock.y is valid
+2024-02-27Z22:18:38 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test5.Test5_report.html
+2024-02-27Z22:18:38 [       Debug ] Searching for file Test6.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:38 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:38 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "d_t_new.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:38 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:38 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test6\Test6.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test6\Test6.csv"
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [     Warning ] t_new.y[1] is invalid! 2838 errors have been found during validation.
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [     Warning ] d_t_new.y is invalid! 2834 errors have been found during validation.
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [ Information ] clock1.y is valid
+2024-02-27Z22:18:38 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:38 [ Information ] clock2.y is valid
+2024-02-27Z22:18:39 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test6.Test6_report.html
+2024-02-27Z22:18:39 [       Debug ] Searching for file Test8.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:39 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:39 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "const.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "clock.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:39 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test8\Test8.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test8\Test8.csv"
+2024-02-27Z22:18:39 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:39 [     Warning ] t_new.y[1] is invalid! 2450 errors have been found during validation.
+2024-02-27Z22:18:39 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:39 [ Information ] const.y is valid
+2024-02-27Z22:18:39 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:39 [ Information ] clock.y is valid
+2024-02-27Z22:18:39 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test8.Test8_report.html
+2024-02-27Z22:18:39 [       Debug ] Searching for file Test9.csv in C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\
+2024-02-27Z22:18:39 [       Debug ] Found base file in given base directory "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\", comparing ...
+2024-02-27Z22:18:39 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "t_new.y[1]" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "clock1.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Column "clock2.y" seems to be text, this is good.
+2024-02-27Z22:18:39 [       Debug ] Exiting with exit code "1".
+2024-02-27Z22:18:39 [ Information ] Comparing "C:\compare\failed\ModelicaTest\Tables\CombiTable2Dv\Test9\Test9.csv" to "C:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTable2Dv\Test9\Test9.csv"
+2024-02-27Z22:18:39 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:39 [     Warning ] t_new.y[1] is invalid! 2480 errors have been found during validation.
+2024-02-27Z22:18:39 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:39 [ Information ] clock1.y is valid
+2024-02-27Z22:18:39 [       Debug ] The resolution of the base x-axis is good.
+2024-02-27Z22:18:39 [ Information ] clock2.y is valid
+2024-02-27Z22:18:39 [ Information ] Report has been written to: C:\temp\MSL410Tables\CombiTable2Dv.Test9.Test9_report.html
+2024-02-27Z22:18:39 [ Information ] Writing meta report to C:\temp\MSL410Tables\2024-02-27-index.html
+2024-02-27Z22:18:39 [ Information ] Meta report has been written to: C:\temp\MSL410Tables\2024-02-27-index.html
